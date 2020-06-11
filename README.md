@@ -1,0 +1,2 @@
+# simple-task-list
+Basics of web application development with Python using the Flask framework.Covers the concepts like creating a Flask Application, using Templates in Flask Applications, using SQLAlchemy and SQLite with Flask, and using Flask and WTForms. Apply the concepts to create a web application with Python and Flask. This application covers the basic understandings about  web application development using Python.
